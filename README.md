@@ -3,10 +3,6 @@
 Repository of Python modeling and simulation of Dynamic Drone Trajectory data, plotter included.
 Dynamic movements includes scenarios which can be modified to see how orientation/velocity effects overall trajectory.
 
-## Getting Started
-
-Have Python 3.8+ installed, as well as matplotlib and numpy.
-
 
 ### Prerequisites
 
