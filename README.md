@@ -1,10 +1,9 @@
 # Drone_Trajectory
-Repository of Python modeling and simulation of Dynamic Drone Trajectory.
+Repository of Python modeling and simulation of Dynamic Drone Trajectory data, plotter included.
 #
-
 Add functionality:
 edit simulation loop and add movement functions accordingly
-Create plot:
+##Create plot:
 Change filename to trajectory.txt or whatever trajectory file is named.
 Run Plotter v3.py
 
