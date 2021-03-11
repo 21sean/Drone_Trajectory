@@ -22,5 +22,5 @@ Simple as running Plotter.py pointing to to trajectory.txt
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-
+## In this Trajectory sample, Stop is the target for each trajectory behavior.
 ![outputPlot](https://user-images.githubusercontent.com/36251064/110841507-93570f80-826b-11eb-9f50-76756a2af9e4.png)
