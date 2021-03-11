@@ -7,4 +7,5 @@ edit simulation loop and add movement functions accordingly
 Create plot:
 Change filename to trajectory.txt or whatever trajectory file is named.
 Run Plotter v3.py
-![outputPlot](https://user-images.githubusercontent.com/36251064/110840895-e1b7de80-826a-11eb-9311-7bb1ad6889df.png)
+
+![outputPlot](https://user-images.githubusercontent.com/36251064/110841507-93570f80-826b-11eb-9f50-76756a2af9e4.png)
