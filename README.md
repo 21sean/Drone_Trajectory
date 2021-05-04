@@ -1,5 +1,5 @@
-# Dynamic Drone Trajectory
-
+# Dynamic Drone Pathfinding
+# For School Project
 Repository of Python modeling and simulation of Dynamic Drone Trajectory data, plotter included.
 Dynamic movements includes scenarios which can be modified to see how orientation/velocity effects overall trajectory.
 
